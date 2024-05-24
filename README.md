@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+meu nome Gustavo e sou aluno do darcy vieira
 <!--
 **gustavin1910/gustavin1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
